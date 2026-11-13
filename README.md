@@ -12,4 +12,4 @@ mejorar la experiencia del usuario.
 #### Escáner de huella digital
 Opcionalmente, se requiere de hardware adicional para el uso de la autenticación biométrica, que facilita el desbloqueo de los chats sin hacer uso de un PIN.
 # Preview de la pieza
-![preview pieza](imagenes/medidas.png)
+![preview pieza](imagenes/preview_pieza.png)
