@@ -3,7 +3,7 @@ Una aplicación de mensajería privada basada en la red I2P.
 ## La pieza
 Como este es un proyecto que no requiere nada físico (excepto obviamente un dispositivo móvil), esta pieza sirve un rol ilustrativo de la función del proyecto: mensajería (el avión de papel) privada (el candado en el ala). [Haz click aquí para ver el proyecto de Tinkercad](https://www.tinkercad.com/things/byNwm2KBV5y/edit?returnTo=%2Fdashboard&sharecode=iCJfHQvTZrYCRqPbPsqUQcseT-WyLKPOsR-daiu9568)
 ## Medidas y materiales
-Esta pieza sólo necesita plástico y sus medidas son las siguientes:
+Esta pieza sólo necesita plástico y sus medidas son las siguientes (**decimales con punto**):
 ![](imagenes/measures_top.png)
 ![](imagenes/measures_rear.png)
 ![](imagenes/measures_bottom.png)
